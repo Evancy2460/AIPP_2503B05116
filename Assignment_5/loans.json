@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "applicant": {
+      "name": "Test Apply",
+      "gender": "Female"
+    },
+    "inputs": {
+      "credit_score": 640.0,
+      "annual_income": 600000.0,
+      "monthly_debt": 15000.0,
+      "loan_amount": 1200000.0,
+      "tenure_years": 10.0
+    },
+    "decision": "REVIEW",
+    "reasons": [
+      "Credit score below 650 (manual review)."
+    ]
+  }
+]

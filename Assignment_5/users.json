@@ -1,0 +1,14 @@
+{
+  "Nissy": {
+    "salt": "PzsWj4BQcYudshB83IDmpw==",
+    "hash": "ARBr4wx/tCwUKlWmEb7FLA0vbyDVReTyBH5KOozljUU=",
+    "iterations": 150000,
+    "algorithm": "pbkdf2_sha256"
+  },
+  "Joel": {
+    "salt": "rIabMvvJ1MIx2dv4QCtX8g==",
+    "hash": "i4l93BrCCfypUBcho38uJAFzEU8htwi9H9hm2adJdMY=",
+    "iterations": 150000,
+    "algorithm": "pbkdf2_sha256"
+  }
+}

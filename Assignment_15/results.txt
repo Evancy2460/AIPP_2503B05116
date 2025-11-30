@@ -1,0 +1,9 @@
+{"city": "Hyderabad", "temperature": 23.23, "humidity": 68, "weather": "Haze", "time": "2025-11-25 20:18:03.279139"}
+{"city": "Delhi", "temperature": 17.05, "humidity": 59, "weather": "Haze", "time": "2025-11-25 20:18:03.684439"}
+{"city": "Bangalore", "temperature": 20.77, "humidity": 74, "weather": "Scattered Clouds", "time": "2025-11-25 20:18:04.076290"}
+{"city": "Hyderabad", "temperature": 23.23, "humidity": 68, "weather": "Haze", "time": "2025-11-25 20:21:26.217966"}
+{"city": "Delhi", "temperature": 17.05, "humidity": 59, "weather": "Haze", "time": "2025-11-25 20:21:26.634112"}
+{"city": "Bangalore", "temperature": 21.39, "humidity": 77, "weather": "Scattered Clouds", "time": "2025-11-25 20:21:27.024096"}
+{"city": "Hyderabad", "temperature": 23.23, "humidity": 68, "weather": "Haze", "time": "2025-11-25 20:44:44.970340"}
+{"city": "London", "temp": 6.52, "humidity": 81, "weather": "Broken Clouds"}
+{"city": "Delhi", "temp": 17.05, "humidity": 59, "weather": "Haze"}
